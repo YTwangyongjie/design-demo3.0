@@ -28,8 +28,8 @@ const value1 = ref("");
 const value2 = ref("");
 const options = [
   {
-    value: "Option1",
-    label: "Option1",
+    value: "测试1",
+    label: "测试1",
   },
   {
     value: "Option2",
