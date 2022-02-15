@@ -223,7 +223,6 @@ const options2 = [
   height: 115px;
   background-color: rgba(255, 255, 255, 1);
   padding: 0;
-  position:relative
 }
 .htop {
   left: 0px;
@@ -231,7 +230,6 @@ const options2 = [
   width: 1440px;
   height: 35px;
   background-color: rgba(0, 0, 0, 1);
-
 }
 .hmain {
   left: 0px;
@@ -244,12 +242,12 @@ const options2 = [
   color: white;
 }
 .elmain {
-  left: 755px;
-  top: 160px;
+  left: 455px;
+  top: -50px;
   width: 901px;
   height: 1168px;
   background-color: rgba(255, 255, 255, 1);
-  position: absolute;
+  position: relative;
   padding: 50px;
   box-sizing: border-box;
 }
